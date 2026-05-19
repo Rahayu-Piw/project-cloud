@@ -1,0 +1,1 @@
+console.log("Hello gw Rahayu sekarang lagi belajar cloud + linux awoawoak");
